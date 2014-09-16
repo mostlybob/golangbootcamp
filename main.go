@@ -6,9 +6,8 @@ func main() {
 
 	//2.1 Variables & inferred typing
 	var (
-		name     string
+		name, location     string
 		age      int
-		location string
 	)
 
 	name = "Prince Oberyn"
